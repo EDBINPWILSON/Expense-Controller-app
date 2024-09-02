@@ -1,0 +1,25 @@
+.box {
+  width: 500px;
+  height: 600px;
+  border: 2px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  background-color: rgb(220, 239, 232);
+}
+.you {
+  display: flex;
+}
+.yoyo {
+  width: 300px;
+  height: 400px;
+  /* border: 1px solid black; */
+  color: rgb(233, 14, 14);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  box-shadow: 0px 2px 10px 5px;
+  margin-left: 60px;
+}

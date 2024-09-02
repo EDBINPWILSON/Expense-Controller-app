@@ -1,0 +1,17 @@
+.card {
+  display: flex;
+  height: 490px;
+  overflow: scroll;
+  scrollbar-width: none;
+}
+.okk {
+  display: flex;
+  justify-content: space-evenly;
+}
+.hello {
+  width: 800px;
+  background-color: rgb(203, 244, 230);
+}
+.flex {
+  width: 200px;
+}
